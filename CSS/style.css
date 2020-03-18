@@ -108,6 +108,15 @@ font-size: 20px;
 	padding-left: 10px;
 	text-decoration: none;
 }
+#snapwire {
+	width: 30%;
+	text-decoration: none;
+	color: white;
+}
+#snapwire img{
+	padding-left: 10px;
+	text-decoration: none;
+}
 #isi {
 	display: flex;
 	padding-left: 200;
