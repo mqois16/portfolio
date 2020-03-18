@@ -118,6 +118,7 @@ font-size: 20px;
 	text-decoration: none;
 }
 #isi {
+	align-content: center;
 	display: flex;
 	padding-left: 200;
 
